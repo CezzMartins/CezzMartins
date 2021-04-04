@@ -1,6 +1,6 @@
 
-<div style="text-align: center;">
-<a href="#"><img style="" width="50%" height="auto" src="https://media0.giphy.com/media/LmNwrBhejkK9EFP504/200.gif"/></a>
+<div style="diplay: flex; justify-content:center; text-align: center;">
+<img style="" width="40%" height="auto" src="https://media0.giphy.com/media/LmNwrBhejkK9EFP504/200.gif"/>
 
 </div>
 
