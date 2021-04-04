@@ -1,5 +1,5 @@
 
-<div style="diplay: flex; justify-content:center; text-align: center;">
+<div style="display:flex; justify-content:center; text-align: center;">
 <img style="" width="40%" height="auto" src="https://media0.giphy.com/media/LmNwrBhejkK9EFP504/200.gif"/>
 
 </div>
