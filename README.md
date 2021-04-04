@@ -1,6 +1,6 @@
 
 <div style="text-align: center;">
-<a href="#"><img style="" width="50%" height="auto" src="https://cdn.substack.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2266452-bdcd-444c-ad32-fe9cabbbee81_498x374.gif"/></a>
+<a href="#"><img style="" width="50%" height="auto" src="https://media0.giphy.com/media/LmNwrBhejkK9EFP504/200.gif"/></a>
 
 </div>
 
