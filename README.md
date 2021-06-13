@@ -6,7 +6,7 @@
 
 - 🌱 I'm on the journey to be a Full Stack developer 
   
-- 🌱 I'm currently learning Vuejs, ReactJs and Django
+- 🌱 I'm currently learning Vuejs, ReactJs and Adonis js
   
 - 👯 I am currently studying for an undergraduate degree in information systems.
   
